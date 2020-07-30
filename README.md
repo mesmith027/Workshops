@@ -1,2 +1,2 @@
 # Workshops
-Repo that holds information workshops on Data Science, Python, Machine Learning and other technical topics
+Repo that holds information workshops on Data Science, Python, Machine Learning and other technical topics. This is currently a work in progress... 
